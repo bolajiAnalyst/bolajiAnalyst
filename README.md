@@ -15,14 +15,14 @@ I bring proficiency in **Python, R, and SQL** alongside hands-on experience with
 
 **Tools**: Git, VS Code, Jypter Notebooks, Google Sheets, Notion, Looker Studio.
 
-## 🚀 PROJECT LINKS
+<!-- ## 🚀 PROJECT LINKS
 *   - ## 🔗 SEE ATTACHED
-      [![portfolio](https://img.shields.io/badge/CorrosionAnalysis?style=for-the-badge&logo=ko-fi&logoColor=white)](https://github.com/RasakAnalysis/CorrosionAnalysis)
+      [![portfolio](https://img.shields.io/badge/CorrosionAnalysis-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://github.com/RasakAnalysis/CorrosionAnalysis)
 
-      [![portfolio](https://img.shields.io/badge/BeachGroupAnalysis?style=for-the-badge&logo=ko-fi&logoColor=white)](https://github.com/RasakAnalysis/BeachGroupAnalysis)
+      [![portfolio](https://img.shields.io/badge/BeachGroupAnalysis-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://github.com/RasakAnalysis/BeachGroupAnalysis)
    
     - ## 🔗 SOCIAL LINKS
-      [![linkedin](https://img.shields.io/badge/linkedin-?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/login/)
+      [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/login/) -->
 
 ## 🚀 MORE
    * 🔭 I'm actively learning **data science skills, including machine learning, feature engineering, model evaluation, and deployment best practices**. 
