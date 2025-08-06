@@ -30,5 +30,5 @@ I bring proficiency in **Python, R, and SQL** alongside hands-on experience with
    * 👯 Open to collaborations on data analysis, machine learning, and visualization projects.
    * 🧠 Hobby: Debugging messy data and uncovering insights.
    
-  You can reach out to me [here](https://wa.me/447424595178).
+  
 
