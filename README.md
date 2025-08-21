@@ -17,7 +17,7 @@ I bring proficiency in **Python, R, and SQL** alongside hands-on experience with
 
 <!-- ## 🚀 PROJECT LINKS
 *   - ## 🔗 SEE ATTACHED
-      [![portfolio](https://img.shields.io/badge/CorrosionAnalysis-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://github.com/RasakAnalysis/CorrosionAnalysis)
+      [![portfolio](https://img.shields.io/badge/CorrosionAnalysis-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://github.com/BolajiAnalyst/CorrosionAnalysis)
 
       [![portfolio](https://img.shields.io/badge/BeachGroupAnalysis-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://github.com/RasakAnalysis/BeachGroupAnalysis)
    
@@ -26,7 +26,7 @@ I bring proficiency in **Python, R, and SQL** alongside hands-on experience with
 
 ## 🚀 MORE
    * 🔭 I'm actively learning **data science skills, including machine learning, feature engineering, model evaluation, and deployment best practices**. 
-   * 🌱Exploring **deep learning, NLP,** and **MLOps** to strengthen my end-to-end data pipeline skills. Learning.
+   * 🌱Exploring **deep learning, NLP,** and **MLOps** to strengthen my end-to-end data pipeline skills. 
    * 👯 Open to collaborations on data analysis, machine learning, and visualization projects.
    * 🧠 Hobby: Debugging messy data and uncovering insights.
    
