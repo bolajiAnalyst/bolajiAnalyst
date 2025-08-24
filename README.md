@@ -11,7 +11,7 @@ I bring proficiency in **Python, R, and SQL** alongside hands-on experience with
 
 **Data Analysis**: Exploratory Data Analysis (EDA), hypothesis testing, A/B testing, correlation analysis, forecasting, regression.
 
-**Data Visualization**: Tableau, Power BI, Matplotlib, Seaborn, D3.js, Excel (PivotTables & VBA)
+**Data Visualization**: Tableau, Power BI, Matplotlib, Seaborn, D3.js, Excel (PivotTables & VBA).
 
 **Tools**: Git, VS Code, Jypter Notebooks, Google Sheets, Notion, Looker Studio.
 
@@ -19,13 +19,13 @@ I bring proficiency in **Python, R, and SQL** alongside hands-on experience with
 *   - ## 🔗 SEE ATTACHED
       [![portfolio](https://img.shields.io/badge/CorrosionAnalysis-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://github.com/BolajiAnalyst/CorrosionAnalysis)
 
-      [![portfolio](https://img.shields.io/badge/BeachGroupAnalysis-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://github.com/RasakAnalysis/BeachGroupAnalysis)
+      [![portfolio](https://img.shields.io/badge/BeachGroupAnalysis-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://github.com/BolajiAnalyst/BeachGroupAnalysis)
    
     - ## 🔗 SOCIAL LINKS
       [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/login/) -->
 
 ## 🚀 MORE
-   * 🔭 I'm actively learning **data science skills, including machine learning, feature engineering, model evaluation, and deployment best practices**. 
+   * 🔭 I'm consolidating my skills in **data science, including machine learning, feature engineering, model evaluation, and deployment best practices**. 
    * 🌱Exploring **deep learning, NLP,** and **MLOps** to strengthen my end-to-end data pipeline skills. 
    * 👯 Open to collaborations on data analysis, machine learning, and visualization projects.
    * 🧠 Hobby: Debugging messy data and uncovering insights.
