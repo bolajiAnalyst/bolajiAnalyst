@@ -28,7 +28,7 @@ I bring proficiency in **Python, R, and SQL** alongside hands-on experience with
    * 🔭 I'm consolidating my skills in **data science, including machine learning, feature engineering, model evaluation, and deployment best practices**. 
    * 🌱Exploring **deep learning, NLP,** and **MLOps** to strengthen my end-to-end data pipeline skills. 
    * 👯 Open to collaborations on data analysis, machine learning, and visualization projects.
-   * 🧠 Hobby: Debugging messy data and uncovering insights.
+   * 🧠 Hobby: Coding and uncovering insights.
    
   
 
