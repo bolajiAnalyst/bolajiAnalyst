@@ -1,4 +1,4 @@
-👋**Hey, I'm Bolaji — a Data Analyst and Computer Scientist who transforms complex data into clear, actionable insights tailored to your unique needs.**
+👋**Hi! My name is Bolaji, a Data Analyst and Computer Scientist who transforms complex data into clear, actionable insights tailored to your unique needs.**
 
 I focus on end-to-end data workflows from data collection and cleaning, through exploratory analysis and feature engineering, to visualization and early-stage modeling. My goal is to transform raw, unstructured data into actionable insights that enable smarter, data-driven decisions across business domains. 
 
