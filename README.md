@@ -1,34 +1,48 @@
-👋**I'm glad you're here. Welcome! My name is Bolaji, an experienced Data Analyst and AI Automation engineer who transforms and automate raw datasets into clear, actionable insights tailored to your unique needs.**
+# 👋 Welcome!
 
-I focus on end-to-end data workflows from data collection and cleaning, through exploratory analysis and feature engineering, to visualization and early-stage modeling. My goal is to transform raw, unstructured data into actionable insights that enable smarter, data-driven decisions across business domains. 
+I’m so glad to have you here! It’s a sign that **Bolaji Solutions** will be helpful to your business and personal needs. My name is **Bolaji**, a seasoned **Data Analyst and AI Automation Engineer**. I specialize in transforming raw datasets into actionable insights while building automations that eliminate repetitive work,helping organizations save time, cut costs, and scale faster.
 
-I bring proficiency in **Python, R, and SQL** alongside hands-on experience with **Power BI, Tableau**, and **Microsoft Excel**. I design scalable pipelines that automate data ingestion, wrangling, and dashboarding.
+---
+## 📊 Data Analysis Expertise
+For the past **3+ years**, I’ve delivered end-to-end data workflows: from **data collection and cleaning** to **exploratory analysis, feature engineering, and visualization**.
+* Processed **2M+ transaction records** to streamline reporting.
+* Reduced reporting time by **40%**.
+* Improved revenue tracking by **18%** through actionable insights.
 
-🔧**Core Skills**
-**Data Collection**: APIs, SQL queries, web scraping, Excel files, and automated pipelines (Airflow and cron jobs).
+---
+## 🤖 AI Automation Engineering
+As an **AI Automation Engineer**, I’ve designed and deployed workflows that saved clients over **300+ manual work hours per month**.
+* Automated CRM updates, email responses, and data syncing.
+* Reduced lead response time from **2 hours → 5 minutes**, boosting conversions by **25%**.
+* Tools: **Make.com, n8n, Zapier, Python APIs**.
 
-**Data Processing**: Python (Pandas, NumPy), R (dplyr, tidyr), Spark, ETL design, data cleansing.
+---
+## 🚀 Projects & Portfolio
+* Workflow Automation using Make.com, Telegram Bot, Gmail, Webhooks, and Google sheets. [![Check it out](https://github.com/bolajiAnalyst/AutomationWorkflow)]
+* Corrosion Analysis, which involves analyzing trends in water corrosiveness and streamflow across 84 U.S. river sites (1964–2016) using NAWQA data and WRTDS models to evaluate corrosion risks in water distribution systems. [![Explore it](https://github.com/bolajiAnalyst/CorrosionAnalysis)]
+* Used Excel Pivot Tables to analyze movie data, revealing trends in revenue, budgets, and director profitability. [![Movie_Set] (https://github.com/bolajiAnalyst/Movie_Analysis)]
+* Built a custom food ordering form with HTML5, CSS3, and JavaScript, integrating Webhooks for order processing and instant confirmations.[![Custom_Form](https://github.com/bolajiAnalyst/Food_Ordering_Form)]
+* Ruhr University's research study, which was executed using Python Flask functions and seamless code execution without AI tools.
+  [![Python_Flask](https://github.com/bolajiAnalyst/studyPythonFlask)]
+* And many more...
+---
+## 🎓 Certifications
+* 📜 Data Analytics Professional Certificate
+* 📜 Business Intelligence & Visualization
+* 📜 AI & Automation Platforms (Make.com, n8n, Zapier)
+* 📜 SQL & Advanced Excel
 
-**Data Analysis**: Exploratory Data Analysis (EDA), hypothesis testing, A/B testing, correlation analysis, forecasting, regression.
+---
+## 🛠️ Tools & Tech
+**Programming & Analysis**: Python, R, SQL, Pandas, NumPy
+**Visualization**: Power BI, Tableau, Matplotlib, Seaborn
+**Automation**: Make.com, n8n, Zapier, Airflow
+**Databases & Workflow**: PostgreSQL, MySQL, Google Sheets, Notion
 
-**Data Visualization**: Tableau, Power BI, Matplotlib, Seaborn, D3.js, Excel (PivotTables & VBA).
+---
+## 🌱 Interests
+* Exploring end-to-end **Data + AI automation** projects
 
-**Tools**: Git, VS Code, Jypter Notebooks, Google Sheets, Notion, Looker Studio.
-
-<!-- ## 🚀 PROJECT LINKS
-*   - ## 🔗 SEE ATTACHED
-      [![portfolio](https://img.shields.io/badge/CorrosionAnalysis-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://github.com/BolajiAnalyst/CorrosionAnalysis)
-
-      [![portfolio](https://img.shields.io/badge/BeachGroupAnalysis-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://github.com/BolajiAnalyst/BeachGroupAnalysis)
-   
-    - ## 🔗 SOCIAL LINKS
-      [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/login/) -->
-
-## 🚀 MORE
-   * 🔭 I'm consolidating my skills in **data science, including machine learning, feature engineering, model evaluation, and deployment best practices**. 
-   * 🌱Exploring **deep learning, NLP,** and **MLOps** to strengthen my end-to-end data pipeline skills. 
-   * 👯 Open to collaborations on data analysis, machine learning, and visualization projects.
-   * 🧠 Hobby: Coding and uncovering insights.
-   
-  
-
+---
+## 🔗 Connect With Me
+[![gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](prompttrainer12@gmail.com)
