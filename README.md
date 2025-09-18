@@ -96,6 +96,3 @@ Let’s collaborate on impactful projects or just geek out on the latest in **Da
 - **GitHub:** [github.com/bolajiAnalyst](https://github.com/bolajiAnalyst)  
 
 Let’s build something impactful together 🚀  
-```
-
-Do you want me to also **add a “Research & Thought Leadership” section** (like SalaamRasak’s), tying your **political science background** into your data/AI career, or keep it strictly **technical-focused**?
