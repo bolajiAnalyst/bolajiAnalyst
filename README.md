@@ -69,11 +69,7 @@ I’ve built and contributed to projects such as:
 ![Seaborn](https://img.shields.io/badge/Seaborn-0099CC?style=for-the-badge&logo=python&logoColor=white)  
 
 #### **AI & Automation**  
-![Make.com](https://img.shields.io/badge/Make-2C009F?style=for-the-badge&logo=make&logoColor=white)  
-![n8n](https://img.shields.io/badge/n8n-0DAD8D?style=for-the-badge&logo=n8n&logoColor=white)  
-![Zapier](https://img.shields.io/badge/Zapier-FF4A00?style=for-the-badge&logo=zapier&logoColor=white)  
-![APIs](https://img.shields.io/badge/APIs-005571?style=for-the-badge&logo=fastapi&logoColor=white)  
-![Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white)  
+![Make.com](https://img.shields.io/badge/Make-2C009F?style=for-the-badge&logo=make&logoColor=white) ![n8n](https://img.shields.io/badge/n8n-0DAD8D?style=for-the-badge&logo=n8n&logoColor=white) ![Zapier](https://img.shields.io/badge/Zapier-FF4A00?style=for-the-badge&logo=zapier&logoColor=white) ![APIs](https://img.shields.io/badge/APIs-005571?style=for-the-badge&logo=fastapi&logoColor=white) ![Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white)  
 
 #### **Workflow & Collaboration**  
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
