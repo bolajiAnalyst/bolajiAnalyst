@@ -25,8 +25,7 @@ Tools I frequently use include **Python, SQL, R, Make.com, n8n, Zapier, Tableau,
 ## 🚀 Projects & Portfolio  
 I’ve built and contributed to projects such as:  
 
-- **Workflow Automation** using Make.com, Telegram Bot, Gmail, Webhooks, and Google Sheets  
-  [![Check it out](https://github.com/bolajiAnalyst/AutomationWorkflow)]  
+- [**Workflow Automation**](https://github.com/bolajiAnalyst/AutomationWorkflow) using Make.com, Telegram Bot, Gmail, Webhooks, and Google Sheets   
 
 - **Corrosion Analysis**: Evaluated corrosion risks in water distribution systems using NAWQA data and WRTDS models across 84 U.S. river sites (1964–2016)  
   [![Explore it](https://github.com/bolajiAnalyst/CorrosionAnalysis)]  
