@@ -25,19 +25,15 @@ Tools I frequently use include **Python, SQL, R, Make.com, n8n, Zapier, Tableau,
 ## 🚀 Projects & Portfolio  
 I’ve built and contributed to projects such as:  
 
-- [**Workflow Automation**](https://github.com/bolajiAnalyst/AutomationWorkflow) using Make.com, Telegram Bot, Gmail, Webhooks, and Google Sheets   
+- [**Workflow Automation**](https://github.com/bolajiAnalyst/AutomationWorkflow) using Make.com, Telegram Bot, Gmail, Webhooks, and Google Sheets.   
 
-- **Corrosion Analysis**: Evaluated corrosion risks in water distribution systems using NAWQA data and WRTDS models across 84 U.S. river sites (1964–2016)  
-  [![Explore it](https://github.com/bolajiAnalyst/CorrosionAnalysis)]  
+- [**Corrosion Analysis**](https://github.com/bolajiAnalyst/CorrosionAnalysis): Evaluated corrosion risks in water distribution systems using NAWQA data and WRTDS models across 84 U.S. river sites (1964–2016).  
 
-- **Movie Data Analysis**: Leveraged Excel Pivot Tables to uncover revenue, budget, and director profitability trends  
-  [![Movie_Set](https://github.com/bolajiAnalyst/Movie_Analysis)]  
+- [**Movie Data Analysis**](https://github.com/bolajiAnalyst/Movie_Analysis): Leveraged Excel Pivot Tables to uncover revenue, budget, and director profitability trends.
 
-- **Custom Food Ordering Form**: Built with HTML5, CSS3, JS + Webhooks for instant order confirmations  
-  [![Custom_Form](https://github.com/bolajiAnalyst/Food_Ordering_Form)]  
-
-- **Python Flask Study**: Research-oriented project executed with Flask for seamless backend automation  
-  [![Python_Flask](https://github.com/bolajiAnalyst/studyPythonFlask)]  
+- [**Custom Food Ordering Form**](https://github.com/bolajiAnalyst/Food_Ordering_Form): Built with HTML5, CSS3, JS + Webhooks for instant order confirmations.  
+  
+- [**Python Flask Study**](https://github.com/bolajiAnalyst/studyPythonFlask): Research-oriented project executed with Flask for seamless backend automation.
 
 **And many more...**  
 
