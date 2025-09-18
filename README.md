@@ -79,4 +79,4 @@ Let’s collaborate on impactful projects or just geek out on the latest in **Da
 
 - **Email:** [prompttrainer12@gmail.com](mailto:prompttrainer12@gmail.com)
   
-Let’s build something impactful together 🚀  
+Let’s build something impactful together.
