@@ -1,4 +1,3 @@
-```markdown
 # 👋 Hi! Welcome to Bolaji’s Hub.
 
 ### About Me  
