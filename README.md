@@ -6,8 +6,6 @@ I am **Bolaji**, a **Data Analyst & AI Automation Engineer** with 3+ years of ex
 
 My focus is on blending **data analytics** with **AI-driven automation** to create **end-to-end pipelines** that transform businesses.  
 
-- 🌍 **Location:** UTC+1  
-- 📧 **Email:** [prompttrainer12@gmail.com](mailto:prompttrainer12@gmail.com)   
 ---
 
 ## 📊 Data Analysis & AI Automation Prowess  
@@ -70,7 +68,5 @@ I’ve built and contributed to projects such as:
 
 ## 📫 Get in Touch  
 Let’s collaborate on impactful projects or just geek out on the latest in **Data & AI**.  
-
-- **Email:** [prompttrainer12@gmail.com](mailto:prompttrainer12@gmail.com)
   
 Let’s build something impactful together.
