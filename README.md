@@ -22,9 +22,11 @@ Tools I frequently use include **Python, SQL, R, Make.com, n8n, Zapier, Tableau,
 ---
 
 ## 🚀 Projects & Portfolio  
-I’ve built and contributed to projects such as:  
+I’ve built and contributed to projects such as:     
 
-- [**Workflow Automation**](https://github.com/bolajiAnalyst/AutomationWorkflow) using Make.com, Telegram Bot, Gmail, Webhooks, and Google Sheets.   
+- [**WordPress News Website Automation**](https://github.com/bolajiAnalyst/News_Website_Automation): This workflow pulls news from RSS feeds, filters articles based on keywords and timing, then enhances content using OpenAI. It’s refined with JavaScript, stored in MongoDB, and automatically published to WordPress, with a notification email sent, removing the need for manual writing and uploading.
+  
+- [**Workflow Automation**](https://github.com/bolajiAnalyst/AutomationWorkflow) using Make.com, Telegram Bot, Gmail, Webhooks, and Google Sheets.
 
 - [**Corrosion Analysis**](https://github.com/bolajiAnalyst/CorrosionAnalysis): Evaluated corrosion risks in water distribution systems using NAWQA data and WRTDS models across 84 U.S. river sites (1964–2016).  
 
