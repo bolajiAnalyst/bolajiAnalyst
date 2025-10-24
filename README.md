@@ -5,8 +5,6 @@ Glad you’re here — it’s a sign that **Bolaji Solutions** will be useful fo
 I am **Bolaji**, a **Data Analyst & AI Automation Engineer** with 3+ years of experience turning raw datasets into actionable insights and designing automations that save time, cut costs, and scale operations.  
 
 My focus is on blending **data analytics** with **AI-driven automation** to create **end-to-end pipelines** that transform businesses.  
-- 🌍 **Location:** UTC+1
-- 📧 **Email:** [prompttrainer12@gmail.com](mailto:prompttrainer12@gmail.com)
 
 ---
 
