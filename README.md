@@ -70,5 +70,4 @@ I’ve built and contributed to projects such as:
 
 ## 📫 Get in Touch  
 Let’s collaborate on impactful projects or just geek out on the latest in **Data & AI**.  
--  📧 **Email:** [prompttrainer12@gmail.com](mailto:prompttrainer12@gmail.com)  
 Let’s build something impactful together.
